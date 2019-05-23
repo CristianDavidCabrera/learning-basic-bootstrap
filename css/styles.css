@@ -1,0 +1,47 @@
+
+* {
+    box-sizing: content-box;
+} 
+nav{
+    margin-bottom: 2rem;
+}
+.nav {
+    display: flex;
+    justify-content: flex-end;
+    /* font-weight: 700; */
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    align-items: center;
+}
+.nav li {
+    padding: 5px 10px 10px 10px;
+}  
+
+.btn {
+    margin-right: 1rem;
+}
+.container {
+    margin-top: 2rem;
+}
+footer {
+    margin-top: 100px;
+   
+} 
+
+/* .item-admins {
+    display: none;
+}
+.item-editors {
+    display: none;
+}
+.item-users {
+    display: none;
+} */
+
+.hidden {
+    display: none;
+  }
+
+
+  
